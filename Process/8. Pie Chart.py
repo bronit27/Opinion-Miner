@@ -1,7 +1,7 @@
 #Result in the form of a piechart
 mylabels=["Positive","Negative","Neutral"]
 #pos=No. of Positives
-#neg=No. of Negatives
+#neg= No. of Negatives
 #new=No. of neutrals
 x=[pos,neg,new]
 labels = list(mylabels)
