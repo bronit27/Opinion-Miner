@@ -2,7 +2,7 @@
 from youtube_comment_scraper_python import *
 import pandas as pd
 
-link = input("Input links:") #link of the youtube video
+link = input("Input links:")#link of the youtube video
 saved = input("Output name:") #name of the csv file in which the comment,number of likes and time of the comment will be stored.
 youtube.open(link)
 
