@@ -15,7 +15,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 from nltk.stem import PorterStemmer, LancasterStemmer # converting the words to their root/base/stem form.
 from nltk.stem.snowball import SnowballStemmer
-from nltk.corpus import stopwords #function to remove the stop words like in,an,the,is,are etc.
+from nltk.corpus import stopwords #function to remove the stop words like in,an,the,is,are etc
 from nltk.corpus import wordnet
 import string
 from string import punctuation
