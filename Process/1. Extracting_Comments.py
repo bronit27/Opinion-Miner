@@ -8,7 +8,7 @@ youtube.open(link)
 
 response = youtube.video_comments()
 all_data = []
-for i in range(0, 5): #number of iterations to be made by the algo to scan the comments.Here (0,5) means that it will scroll the comment section 10 times.
+for i in range(0, 5):#number of iterations to be made by the algo to scan the comments.Here (0,5) means that it will scroll the comment section 10 times.
     response = youtube.video_comments()
     data = response['body']
     all_data.extend(data)
