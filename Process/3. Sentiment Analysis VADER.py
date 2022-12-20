@@ -1,4 +1,4 @@
-#VADER : Valence Aware Dictionary and sEntiment Reasoner
+#VADER  : Valence Aware Dictionary and sEntiment Reasoner
 nltk.download('vader_lexicon')
 sentiments = SentimentIntensityAnalyzer()
 data1["Positive"] = [sentiments.polarity_scores(i)["pos"] for i in data1["Comment"]]
