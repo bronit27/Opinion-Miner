@@ -15,7 +15,7 @@ def text_processing(text):
     # remove multiple spaces from text
     text = re.sub(r'\s+', ' ', text, flags=re.I)
     
-    # remove special characters from text
+    #remove special characters from text
     text = re.sub(r'\W', ' ', text)
 
     text = ' '.join([word for word in word_tokenize(text) if word not in stop_words])
