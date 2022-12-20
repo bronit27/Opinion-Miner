@@ -1,8 +1,8 @@
 #Result in the form of a piechart
 mylabels=["Positive","Negative","Neutral"]
-#pos=No. of Positives
-#neg= No. of Negatives
-#new=No. of neutrals
+#pos =No. of Positives
+#neg = No. of Negatives
+#new =No. of neutrals
 x=[pos,neg,new]
 labels = list(mylabels)
 myexplode = [0.2, 0.2, 0]
