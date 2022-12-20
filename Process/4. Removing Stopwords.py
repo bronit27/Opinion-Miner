@@ -1,4 +1,4 @@
-# For removing stopwords i.e the words that are not having any contribution in determing the sentiment of a text.For eg.(in ,an ,the ,is ,are etc.)
+# For removing stopwords i.e the words that are not having any contribution in determining the sentiment of a text.For eg.(in ,an ,the ,is ,are etc.)
 nltk.download('stopwords')
 stop_words = stopwords.words('english')
 porter_stemmer = PorterStemmer()
