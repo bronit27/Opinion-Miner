@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 %matplotlib inline
 import os
-# nltk is natural language toolkit (used when working with human language data)
+#nltk is natural language toolkit (used when working with human language data)
 #Import functions for data preprocessing & data preparation
 from sklearn.preprocessing import LabelEncoder
 from sklearn.utils import resample
