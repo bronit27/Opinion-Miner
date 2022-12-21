@@ -126,7 +126,7 @@ processed_data['Sentiment'].value_counts()
 
 df_neutral = processed_data[(processed_data['Sentiment']==1)] 
 df_negative = processed_data[(processed_data['Sentiment']==0)]
-df_positive = processed_data[(processed_data['Sentiment']==2)]
+df_positive =processed_data[(processed_data['Sentiment']==2)]
 
 # upsample minority classes
 df_negative_upsampled = resample(df_negative, 
