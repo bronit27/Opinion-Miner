@@ -5,4 +5,4 @@
 
 :heavy_check_mark: It classifies a particular comment into Positive , negative or neutral.
 
-<img src="pic.jpeg" width="100" height="100" />
+<img src="https://user-images.githubusercontent.com/85544778/208442805-dbdc6559-3de0-4a33-9846-52259a7791d6.png" width="100" height="100" />
