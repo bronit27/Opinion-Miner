@@ -14,7 +14,6 @@
 
 3. For analysing any YT video just paste the Link of that video in **link = input("Input links: ***LINK***")** in the extracting comments section of the **process** folder then it'll extract the comments and store it in the .csv file for analyzing the sentiments. 
 
-Below Image shows the main idea of Opinion Mining.
 
 
 <img src="https://user-images.githubusercontent.com/85544778/208442805-dbdc6559-3de0-4a33-9846-52259a7791d6.png" width="600" height="300" />
