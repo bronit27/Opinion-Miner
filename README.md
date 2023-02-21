@@ -10,9 +10,7 @@
 ### How it Works?
 1. The detailed process of every part of code is mentioned in the **Process.py** and a demo is given in **SimpleDemo.md**.
 
-2. Code can be accesed from Jupyter notebook or VS Code.
-
-3. For analysing any YT video just paste the Link of that video in **link = input("Input links: ***LINK***")** in the extracting comments section of the **process** folder then it'll extract the comments and store it in the .csv file for analyzing the sentiments. 
+2 For analysing any YT video just paste the Link of that video in **link = input("Input links: ***LINK***")** in the extracting comments section of the **process** folder then it'll extract the comments and store it in the .csv file for analyzing the sentiments. 
 
 
 
