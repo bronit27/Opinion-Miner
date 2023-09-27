@@ -1,4 +1,3 @@
-```py
 # For data extraction from youtube ie getting comments from youtube
 from youtube_comment_scraper_python import *
 import pandas as pd
